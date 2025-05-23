@@ -1,2 +1,2 @@
-# UDA
-Progetto scolastico
+# UDA 
+Questo sito è un progetto scolastico per le materie tepsit e inglese, tratta dell'E-waste and the circular economy, è interamente in inglese, si entra nell'index in cui ce una nav bar in alto per andare nelle 4 pagine di contenuti e nella pagina chi siamo, nel footer poi c'è la pagina sitographgy, dove ci sono tutti i siti da qui abbiamo preso informazioni. Il sito è formato da html e CSS base, non presenta JavaScript.
